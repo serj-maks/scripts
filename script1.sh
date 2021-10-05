@@ -1,2 +1,2 @@
 git pull
-echo "done"
+echo "pull complete!"
