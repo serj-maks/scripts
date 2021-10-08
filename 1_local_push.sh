@@ -1,9 +1,9 @@
 #!/bin/bash
 echo -en "\n"
-echo "push start"
+echo "local push - start"
 echo -en "\n"
 git add .
 git commit -a -m "autoupdate `date +%F-%T`"
 git push
 echo -en "\n"
-echo "push complete!"
+echo "local push - complete!"
