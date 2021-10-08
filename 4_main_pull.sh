@@ -1,3 +1,4 @@
+#!/bin/bash
 echo "globall pull - start"
 echo -en "\n"
 cd ..

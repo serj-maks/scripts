@@ -1,4 +1,5 @@
 #!/bin/bash
+echo -en "\n"
 echo "push start"
 echo -en "\n"
 git add .
