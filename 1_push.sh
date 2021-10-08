@@ -1,4 +1,5 @@
 #!/bin/bash
+echo "push start"
 echo -en "\n"
 git add .
 git commit -a -m "autoupdate `date +%F-%T`"
