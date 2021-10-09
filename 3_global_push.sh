@@ -2,7 +2,6 @@
 echo -en "\n"
 echo "global push - start"
 echo -en "\n"
-cd..
 
 # db
 cd db
