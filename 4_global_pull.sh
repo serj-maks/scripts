@@ -34,5 +34,10 @@ cd dotfiles
 sleep 5
 cd ..
 
+# scripts
+cd scripts
+./2_local_pull.sh
+sleep 5
+
 echo -en "\n"
 echo "global pull - complete!"
