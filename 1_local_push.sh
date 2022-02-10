@@ -9,3 +9,4 @@ git push
 sleep 5
 echo -en "\n"
 echo "local push - complete!"
+hello from phone!
